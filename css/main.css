@@ -1,0 +1,28 @@
+/* GENERAL STYLES */
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+body{
+    background-color: #ccc;
+}
+
+/* HEADER / TITLE */
+
+header{
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 15px;
+}
+ h1{
+     display: inline-block;
+     vertical-align: middle;
+     font-size: 40px;
+ }
+
+ .logo{
+     vertical-align: middle;
+ }
