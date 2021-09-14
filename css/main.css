@@ -16,13 +16,43 @@ header{
     width: 100%;
     background-color: #fff;
     padding: 10px 15px;
+    margin-bottom: 40px;
 }
- h1{
+ 
+h1{
      display: inline-block;
      vertical-align: middle;
      font-size: 40px;
- }
+}
 
- .logo{
+.logo{
      vertical-align: middle;
- }
+}
+
+/* MAIN CONTENT */
+
+.menu{
+    border-radius: 5px;
+    margin: 5px auto;
+    width: 70%;
+    background-color: white
+    
+}
+
+nav{
+    height: 80px;
+    
+}
+
+.button{
+
+}
+
+section{
+    height: 700px;
+    margin-top: 50px;
+}
+
+
+
+
